@@ -1,6 +1,6 @@
 <script>
     import { userNameQuery } from '../Stores/searchTerm';
-    let searchTerm = 'watch_zero';
+    let searchTerm = '';
     export let toggleSearched;
 
 </script>
